@@ -64,15 +64,8 @@ less phishing-sample.eml
 
 📖 *Allows you to scroll through the full email content for detailed analysis, formatting, and hidden signs of phishing.*
 
----
-
-Let me know if you'd like these as a markdown table or in a GitHub-ready format!
 
 
-bash
-Copy
-Edit
-less phishing-sample.eml
 
 
 
